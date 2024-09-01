@@ -12,8 +12,8 @@
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/nextjs-country-dashboard.git
-   cd nextjs-country-dashboard
+   git clone git@github.com:adesh1992/country-app.git
+   cd country-app
 2. Install dependencies:
     npm install
 3. Run the development server:
